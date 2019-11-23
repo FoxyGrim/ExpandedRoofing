@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ER_ExpandedRoofing>Расширенная кровля</ER_ExpandedRoofing>
+  <ER_MaxOutputLabel>Максимальная выходная мощность солнечного протокола</ER_MaxOutputLabel>
+  <ER_WattagePerSolarPanelLabel>Мощность солнечного экрана на солнечной панели</ER_WattagePerSolarPanelLabel>
+  <ER_GlassLights>Поменять стекло на сталь, если не установлен мод 'Glass+Lights</ER_GlassLights>
+  <ER_RoofMaintenance>Устанавливает будут ли выполняться работы по обслуживанию крыши</ER_RoofMaintenance>
+
+</LanguageData>
